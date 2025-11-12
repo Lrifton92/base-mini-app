@@ -70,7 +70,7 @@ ABI exemple pour store votes :json[{"inputs":[{"type":"uint256"}],"name":"store"
 Centré : Sphère SVG (gradient bleu, "Base" blanc).
 Footer : "Mini app créée par Lrifton92" (sans apostrophe pour ESLint).
 
-Déploiement (Vercel)
+Déploiement
 
 Build local :textnpm run build
 Déploye :textnpm i -g vercel
